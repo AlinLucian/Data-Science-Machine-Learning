@@ -4,5 +4,5 @@ Repository for projects completed by me for academic and self learning purposes 
 ## Contents
 
 - ### Tensorflow exploration projects
-[Tensorflow Simple Array Addition](Tensorflow_simple_array_addition.py)
-         -- Initial exploratory prject using tensorflow on a Windows 10 machine. Receives two arrays as inputs, then calculates and displays the result of adding the two arrays.
+
+     - [Tensorflow Simple Array Addition](Tensorflow_simple_array_addition.py) -- Initial exploratory prject using tensorflow on a Windows 10 machine. Receives two arrays as inputs, then calculates and displays the result of adding the two arrays.
