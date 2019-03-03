@@ -1,7 +1,7 @@
 # Data-Science-Machine-Learning
 Repository for projects completed by me for academic and self learning purposes as I go deeper into python, data science, and machine learning.
 
-_Tools used: PyCharm, Tensorflow, Python 3.5 (working on a Windows 10 machine), Anaconda 4.6.7
+_Tools used: PyCharm, Tensorflow, Python 3.5 (working on a Windows 10 machine), Anaconda 4.6.7_
 
 ## Contents
 
