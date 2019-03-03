@@ -5,7 +5,9 @@ _Tools used: PyCharm, Tensorflow, Python 3.5 (working on a Windows 10 machine), 
 
 ## Contents
 
-- ### Tensorflow exploration projects
+### Tensorflow exploration projects
 
-     - [Tensorflow Simple Array Addition](Tensorflow_simple_array_addition.py) -- Initial exploratory prject using tensorflow on a Windows 10 machine. Receives two arrays as inputs, then calculates and displays the result of adding the two arrays. Part of the *'AI and Machine Learning Specialist, Part II'* Learning Path on LinkedIn Learning (formerly Lynda.com).
-     
+1. [Tensorflow Simple Array Addition](Tensorflow_simple_array_addition.py) -- Initial exploratory prject using tensorflow on a Windows 10 machine. Receives two arrays as inputs, then calculates and displays the result of adding the two arrays. Part of the *'AI and Machine Learning Specialist, Part II'* Learning Path on LinkedIn Learning (formerly Lynda.com).
+2. [Game Earnings Prediction](https://github.com/AlinLucian/Data-Science-Machine-Learning/tree/master/Earnings%20Prediction) -- Master folder for the Game Earnings Prediction Project which is the main focus of the *'AI and Machine Learning Specialist, Part II'* Learning Path on LinkedIn Learning (formerly Lynda.com).
+     - [Pre-loading the data](https://github.com/AlinLucian/Data-Science-Machine-Learning/blob/master/Earnings%20Prediction/Load_data.py) -- initial data exploration,scaling, and loading using the pandas framework
+     - 
